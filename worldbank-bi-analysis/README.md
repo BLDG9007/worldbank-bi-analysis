@@ -44,7 +44,7 @@ This dashboard helps stakeholders monitor economic indicators, identify trends, 
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview_world_bank.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ### GDP Trend Analysis
 ![GDP Trend Analysis](screenshots/gdp_trend_chart.png)
